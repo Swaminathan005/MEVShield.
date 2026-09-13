@@ -143,6 +143,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
-
-Project Link: [https://github.com/yourusername/Exasol_MEVShield](https://github.com/yourusername/Exasol_MEVShield)
+Your Name - [swaminathanvengadachalam@gmail.com](mailto:swaminathanvengadachalam@gmail.com)
