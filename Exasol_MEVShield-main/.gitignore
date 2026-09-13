@@ -1,0 +1,23 @@
+# Python virtual environments & bytecode
+.venv/
+env/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment & Credentials
+.env
+idpassword.txt
+
+# Model & ML training logs
+catboost_info/
+
+# Large Datasets (>100MB violates GitHub limits)
+# Sourced from Dune Analytics (1.08 GB) & full holdout (117 MB)
+data/sandwich_4M_cleaned_final.csv
+data/live_demo_holdout.csv
+
+# Note: The following essential artifacts ARE tracked in git for judges:
+# - data/holdout_sample_10k.csv (3.6 MB)
+# - models/champion_mev_model.joblib (1.74 MB)
